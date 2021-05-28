@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Resume', // <title>
+  siteTitle: 'Gabriel Santos Resume', // <title>
   manifestName: 'Resume',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -15,12 +15,12 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/GabrielSt',
     },
     {
       icon: 'fa-linkedin-in',
       name: 'Linkedin',
-      url: 'https://linkedin.com/in/theanubhav/',
+      url: 'https://www.linkedin.com/in/gabriel-santos-aba22452/',
     },
     {
       icon: 'fa-twitter',
@@ -35,5 +35,5 @@ module.exports = {
   ],
   email: 'xgabriel.st@gmail.com',
   phone: '+351 915 604 127',
-  address: 'Rua do Rosário 18, Porto, Portugal',
+  address: 'Porto, Portugal',
 };
