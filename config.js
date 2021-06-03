@@ -71,6 +71,16 @@ module.exports = {
       endDate: '01/07/2015',
     },
   ],
+  education: [
+    {
+      institution: 'Centro universitário La Salle',
+      formation: 'Bachelor',
+      area: 'Software engineering',
+      description: 'Description test of a education.',
+      startDate: '01/01/2011',
+      endDate: '01/01/2015',
+    },
+  ],
   email: 'xgabriel.st@gmail.com',
   phone: '+351 915 604 127',
   address: 'Porto, Portugal',
