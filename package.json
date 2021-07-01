@@ -4,7 +4,7 @@
   "description": "Gatsby.js V2 starter template based on Resume by startbootstrap",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-resume.git"
+    "url": "git+https://github.com/GabrielSt/gs-resume.git"
   },
   "author": {
     "name": "Gabriel Santos",
@@ -43,9 +43,5 @@
     "gatsby-starter",
     "gatsby-starter-resume"
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-resume/issues"
-  },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-resume#readme"
+  "license": "MIT"
 }
