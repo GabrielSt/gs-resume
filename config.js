@@ -36,21 +36,30 @@ module.exports = {
   experiences: [
     {
       company: {
-        name: 'Capgemini Engineering',
-        logo:
-          'https://media-exp1.licdn.com/dms/image/C4D0BAQGcNoU1nVm4Wg/company-logo_100_100/0/1617853380354?e=1630540800&v=beta&t=8FyboqFiugn4i7T-sGlNmS-9TRuL8nFnrT9PgdV72rg',
+        name: 'Metyis',
+        logo: 'Metyis.jpg',
       },
       position: 'Software Engineer Front-end',
       description:
-        'Description test of a software engineer developing the core products of the company using stunning technologies to improve the user experience.',
-      startDate: '01/06/2019',
+        'Working as a Front-end developer on several projects inside the company.\nTechnologies: React / React Native, Typescript, Redux, Styled components, Tailwind, sass.',
+      startDate: '01/08/2021',
       endDate: 'Present',
     },
     {
       company: {
+        name: 'Capgemini Engineering',
+        logo: 'Capgemini.jpg',
+      },
+      position: 'Software Engineer Front-end',
+      description:
+        'Fullstack development at farfetch acting as a consultant - Altran\n\nTechnologies used:\n  Front - React\n  Back - .net/node\n\nGloboplay product development acting as consultant - Altran - (06/19 - 10/19)\n\nTechnologies used:\n  Front - React, Redux, SCSS, Jest, Apollo.\n  Back - Node, GraphQL, Redis.',
+      startDate: '01/06/2019',
+      endDate: '01/08/2021',
+    },
+    {
+      company: {
         name: 'Concrete Solutions',
-        logo:
-          'https://media-exp1.licdn.com/dms/image/C4E0BAQFD-9uEfCvDsw/company-logo_100_100/0/1530194425611?e=1630540800&v=beta&t=GRHXqkEHyqoyO6rNMH9EmlBjscaaJCZPbdhzmkMEE8I',
+        logo: 'Concrete.jpg',
       },
       position: 'Software Engineer fullstack',
       description:
@@ -61,8 +70,7 @@ module.exports = {
     {
       company: {
         name: 'Stone Pagamentos',
-        logo:
-          'https://media-exp1.licdn.com/dms/image/C4D0BAQFLjZHjNCzjFg/company-logo_100_100/0/1604492502959?e=1630540800&v=beta&t=cq8qryH_8fErB4MmSg4N0BXKqa6-wGVz7QylFJzucfo',
+        logo: 'Stone.jpg',
       },
       position: 'Software Engineer',
       description:

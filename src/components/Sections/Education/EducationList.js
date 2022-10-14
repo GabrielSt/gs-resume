@@ -10,8 +10,8 @@ const EducationList = props => {
       <div className="w-100">
         <h2 className="mb-5">Education</h2>
 
-        {config.education.map(e => {
-          return <Education education={e} />;
+        {config.education.map((e, i) => {
+          return <Education education={e} key={i} />;
         })}
       </div>
     </Section>

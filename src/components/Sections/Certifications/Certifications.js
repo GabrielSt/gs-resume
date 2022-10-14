@@ -3,7 +3,7 @@ import React from 'react';
 import Section from '../';
 
 const Certifications = props => {
-  const { config } = props;
+  // const { config } = props;
   return (
     <Section name="awards">
       <div className="w-100">

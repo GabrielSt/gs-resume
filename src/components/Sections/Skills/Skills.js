@@ -2,7 +2,7 @@ import React from 'react';
 import Section from '../';
 
 const Skills = props => {
-  const { config } = props;
+  // const { config } = props;
   return (
     <Section name="skills">
       <div className="w-100">

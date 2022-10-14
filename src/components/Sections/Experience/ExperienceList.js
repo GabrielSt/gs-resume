@@ -9,8 +9,8 @@ const ExperienceList = props => {
     <Section name="experience">
       <div className="w-100">
         <h2 className="mb-5">Experience</h2>
-        {config.experiences.map(e => {
-          return <Experience experience={e} />;
+        {config.experiences.map((e, i) => {
+          return <Experience experience={e} key={i} />;
         })}
       </div>
     </Section>
